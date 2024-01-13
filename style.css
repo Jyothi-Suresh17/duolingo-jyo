@@ -1,0 +1,76 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+header{
+  background-color: rgb(5, 99, 5);
+  color: white;
+  font-style: italic;
+  font-family: cursive;
+  text-align: center;
+  height:100px;
+  padding-top: 30px;
+  font-size: x-large;
+  position: sticky;
+  top: 0px;
+}
+.nn{
+   background-color: transparent;
+   color: white;
+   border: none;
+
+}
+
+.row{
+  background-color: rgb(170, 232, 170);
+  height: 800px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  
+
+}
+
+.col{
+  height:600px;
+  width: 270px;
+  background-color: green;
+  margin:20px;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+img{
+  border-radius: 30px;
+  height: 250px;
+}
+
+.btn{
+  margin: 50px;
+  border-radius: 20px;
+  height: 50px;
+  background-color: chartreuse;
+}
+.newbatch{
+  background-color: rgb(3, 44, 3);
+  color: antiquewhite;
+  font-family: 'Courier New', Courier, monospace;
+}
+footer{
+  background-color: rgb(28, 180, 28);
+  color: rgb(3, 43, 18);
+  height: 150px;
+}
+.banner
+{
+  background-image: url(https://tse2.mm.bing.net/th?id=OIP.Eut5___XAw0eXv_OpQYJ-gHaCv&pid=Api&P=0&h=220);
+  height: 150px;
+}
+.newban{
+  background-image: url(https://tse2.mm.bing.net/th?id=OIP.Eut5___XAw0eXv_OpQYJ-gHaCv&pid=Api&P=0&h=220);
+  height: 150px;
+}
+.col1{
+  
+}
